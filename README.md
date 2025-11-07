@@ -124,20 +124,11 @@ graph LR
 
 ---
 
-## 🎓 Certifications
-
-- 🏆 AWS Certified Solutions Architect (if applicable)
-- 🏆 Certified Kubernetes Administrator (CKA) (if applicable)
-- 🏆 AWS Certified DevOps Engineer (if applicable)
-
----
-
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📝 [Blog/Portfolio](https://yourblog.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/araz-ghalamifard-45a98651/)
+- 📧 Email: araz.ghf@gmail.com
+
 
 ---
 
