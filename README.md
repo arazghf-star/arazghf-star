@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Araz Ghalamifard
 
 ## 🚀 DevOps Engineer | AWS | Kubernetes | Docker
 
